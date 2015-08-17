@@ -5,8 +5,9 @@ Is create a instance of the object Movie or TvShow, and send it to the create_mo
 
 #### In file entertaiment_center.py
 
-You can create Movie or TvShow objects
-Create the object like this:
+>You can create Movie or TvShow objects
+>
+>Create the object like this:
 
 ```python
 instance_movie = media.Movie(movie_title, duration,
