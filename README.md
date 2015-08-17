@@ -7,7 +7,6 @@ Is create a instance of the object Movie or TvShow, and send it to the create_mo
 
 You can create Movie or TvShow objects
 <br>
-<br>
 Create the object like this:
 
 ```python
